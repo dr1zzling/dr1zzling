@@ -20,7 +20,7 @@
 
 ### 📫 Contact Me
 - Email: erzyahmadd@gmail.com
-- Instagram: [@0vercastt]([https://instagram.com/yourusername](https://www.instagram.com/0vercastt/)
+- Instagram: [@0vercastt]([https://instagram.com/yourusername](https://www.instagram.com/0vercastt/))
 
 My Skill
 <h3 align="left">Connect with me:</h3>
