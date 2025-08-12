@@ -2,8 +2,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dr1zzling&show_icons=true&count_private=true&theme=tokyonight)
 
-## 🏆 GitHub Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=dr1zzling&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dr1zzling&layout=compact&theme=tokyonight)
