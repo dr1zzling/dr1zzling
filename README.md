@@ -20,6 +20,6 @@
 ---
 
 ### 📫 Contact Me
-- Email: your@email.com
-- Instagram: [@yourusername](https://instagram.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourusername)
+- Email: erzyahmadd@gmail.com
+- Instagram: [@0vercastt](https://instagram.com/yourusername)
+  
