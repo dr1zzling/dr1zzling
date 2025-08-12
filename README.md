@@ -9,7 +9,7 @@
 
 ---
 
-## 🔋 Charging My Skills
+## 🤹🏼 My Skill
 <p align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="150">
   
