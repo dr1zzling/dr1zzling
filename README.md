@@ -28,9 +28,8 @@
 
 ### 🤹 My Skill
 <p align="center">
-  <img src="https://i.ibb.co/Kq9d2wz/error-404-skill.png" width="300">
+  <img src="https://raw.githubusercontent.com/dr1zzling/dr1zzling/main/error-skill.png" width="300">
   <br>
-  <b>Error: Skill not found</b>
+  <b>⚠️ Error: 404 Skill Not Found</b>
 </p>
-
 
