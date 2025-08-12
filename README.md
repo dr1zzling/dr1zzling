@@ -20,7 +20,10 @@
 
 ### 📫 Contact Me
 - Email: erzyahmadd@gmail.com
-- Instagram: [@0vercastt]([https://instagram.com/0vercastt])
+<p align="left">
+<a href="https://instagram.com/0vercastt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0vercastt" height="30" width="40" /></a>
+</p>
+
 
 My Skill
 <h3 align="left">Connect with me:</h3>
