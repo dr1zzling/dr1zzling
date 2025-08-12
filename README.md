@@ -28,9 +28,9 @@
 
 ### 🤹 My Skill
 <p align="center">
-  <img src="https://i.imgur.com/6NKPrhO.png" width="250">
+  <img src="https://i.ibb.co/Kq9d2wz/error-404-skill.png" width="300">
   <br>
-  <b>Error: Skill.dll not found</b>
+  <b>Error: Skill not found</b>
 </p>
 
 
