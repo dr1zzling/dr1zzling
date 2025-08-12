@@ -1,7 +1,7 @@
 
 
 ## 📦 Total Repositories
-![Repos Badge](https://badges.pufler.dev/repos/USERNAME_KAMU)
+![Repos Badge](https://badges.pufler.dev/repos/dr1zzling)
 
 
 
