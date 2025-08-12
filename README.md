@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🚀 My GitHub Profile
 
-<!--
-**dr1zzling/dr1zzling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+## 📦 Total Repositories
+![Repos Badge](https://badges.pufler.dev/repos/USERNAME_KAMU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight)
+
+---
+
+## 🔋 Charging...
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="150">
+  <br>
+  <b>Keep learning, keep coding, keep charging your skills!</b>
+</p>
+
+---
+
+### 📫 Contact Me
+- Email: your@email.com
+- Instagram: [@yourusername](https://instagram.com/yourusername)
+- LinkedIn: [Your Name](https://linkedin.com/in/yourusername)
