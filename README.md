@@ -11,7 +11,9 @@
 
 ## 🤹🏼 My Skill
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,java,aws,figma,vscode,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,java,aws,figma,vscode,unity)](https://skillicons.dev)<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+</div>
 <p align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="150">
   
