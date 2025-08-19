@@ -10,6 +10,8 @@
 ---
 
 ## 🤹🏼 My Skill
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,java,laragon,aws,figma,vscode)](https://skillicons.dev)
 <p align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="150">
   
