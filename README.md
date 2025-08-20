@@ -10,7 +10,7 @@
 ---
 
 ## 🤹🏼 My Skill
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,java,aws,figma,vscode,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,java,aws,figma,unity)](https://skillicons.dev)
 
  
 </div>
