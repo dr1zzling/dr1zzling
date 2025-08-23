@@ -8,10 +8,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dr1zzling&layout=compact&theme=tokyonight)
 
 ---
-
-## 🤹🏼🤹🏼
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,java,aws,figma,unity)](https://skillicons.dev)
-
  
 </div>
 <p align="center">
