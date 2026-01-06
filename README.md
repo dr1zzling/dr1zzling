@@ -1,6 +1,7 @@
 # 🚀 My GitHub Profile
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dr1zzling&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dr1zzling&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 ## 💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dr1zzling&layout=compact&theme=tokyonight)
