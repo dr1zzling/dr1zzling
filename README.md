@@ -18,9 +18,11 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=erzyahmadd@gmail.com)
 
-<p align="left">
-  <a href="https://instagram.com/0vercastt" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-         alt="Instagram" height="30" width="40" />
+<p align="center">
+  <a href="https://instagram.com/0vercastt">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-</p>
+  <a href="mailto:erzyahmadd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p
