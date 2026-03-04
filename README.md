@@ -16,8 +16,6 @@
 
 ### 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=erzyahmadd@gmail.com)
-
 <p align="center">
   <a href="https://instagram.com/0vercastt">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
