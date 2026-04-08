@@ -3,7 +3,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dr1zzling&show_icons=true&theme=tokyonight&hide_border=true)
 
 
-<table border="0">
+<table>
     <td align="center" valign="top">
       <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dr1zzling&layout=compact&theme=dark" alt="Lenguajes más usados" />
     </td>
